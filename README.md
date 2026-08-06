@@ -41,4 +41,5 @@ make
 
 ## License
 
-BSD-Google — See LICENSE file.
+Apache License 2.0 — Copyright 2026 LX Semicon Co., Ltd.  
+See [LICENSE](LICENSE) file for details.
